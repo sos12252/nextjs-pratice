@@ -1,17 +1,13 @@
-.product{
-    padding:16px;
-}
-
 .nav {
-    padding: 16px;
-    margin-top: 8px;
-    border: 1px solid salmon;
+  padding: 16px;
+  margin-top: 8px;
+  border: 1px solid salmon;
 }
 
 .nav a {
-    padding: 0 8px;
+  padding: 0 8px;
 }
 
-.Link {
-    padding:5px;
+.product {
+  padding: 16px;
 }

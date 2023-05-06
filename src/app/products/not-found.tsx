@@ -1,7 +1,3 @@
-import React from 'react'
-
-export default function NotFoundPage() {
-  return (
-    <div>페이지를 찾을수 없습니다.</div>
-  )
+export default function ProductNotFound() {
+  return <h1>No such product found</h1>;
 }

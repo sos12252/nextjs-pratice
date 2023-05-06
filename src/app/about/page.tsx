@@ -1,7 +1,3 @@
-import React from 'react'
-
-export default function page() {
-  return (
-    <div>About</div>
-  )
+export default function AboutPage() {
+  return <h1>About Us!</h1>;
 }
