@@ -4,8 +4,8 @@ import './globals.css';
 import styles from './layout.module.css';
 
 export const metadata: Metadata = {
-  title: '멋진 제품 사이트',
-  description: '멋진 제품을 판매하는 곳입니다.',
+  title: 'Next.js shopping Web Site',
+  description: 'Next.js practice',
   icons: {
     icon: '/favicon.ico',
   },
